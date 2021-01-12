@@ -12,7 +12,7 @@ Select 'GENRE' as '';
 SELECT genre FROM albums WHERE genre='Nevermind';
 
 Select '1990 ALBUMS' as '';
-SELECT * FROM albums WHERE release_date=1990;
+SELECT name FROM albums WHERE release_date  BETWEEN 1990 AND 1999;
 
 Select 'SALES<20 MILLION' as '';
 SELECT * FROM albums WHERE sales<20.0;
