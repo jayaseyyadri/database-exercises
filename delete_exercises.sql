@@ -1,5 +1,4 @@
 USE codeup_test_db;
--- (artist, name, release_date, genre, sales)
 
 SELECT '1991 RELEASES' AS'';
 DELETE name FROM albums
