@@ -1,2 +1,2 @@
 # database-exercises
-This is a repu for mysql exercises
+This is a repuo for mysql exercises
